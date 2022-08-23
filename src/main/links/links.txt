@@ -1,0 +1,4 @@
+[delete this message and add the links you want to iterate through seperate by a new line
+example:
+https://www.amazon.com/Banpresto-Piece-Lucci-Figure-Creator/dp/B01LRO412K
+https://www.ebay.com/itm/225127761910]
